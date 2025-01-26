@@ -72,7 +72,7 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Team](![473dc6be-25cc-429e-bfad-8a6f9b21756f](https://github.com/user-attachments/assets/ba642755-7ea9-419c-b480-bbd7b0c5ae6a)
+![Team](![Team Photo](/473dc6be-25cc-429e-bfad-8a6f9b21756f.jpg)
 )
 
 
