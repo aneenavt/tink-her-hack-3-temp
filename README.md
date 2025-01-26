@@ -6,44 +6,37 @@
 
 
 ### Team Members
-- Member 1: zahra noushad - [sngce engineering college of engineering]
-- Member 2: aneena vt - [sngce engineering college of engineering]
+- Member 1: zahra noushad - sngce engineering college of engineering
+- Member 2: aneena vt - sngce engineering college of engineering
 
 ### Hosted Project Link
 [https://healing-circle.streamlit.app/]
 
 ### Project Description
-[this is an AI-powered mental health chatbot designed to provide emotional support, resources, and guidance for individuals navigating life's challenges. Our mission is to create a safe, non-judgmental space for you to express yourself, explore your feelings, and develop coping strategies.]
+this is an AI-powered mental health chatbot designed to provide emotional support, resources, and guidance for individuals navigating life's challenges. Our mission is to create a safe, non-judgmental space for you to express yourself, explore your feelings, and develop coping strategies.
 
 ### The Problem statement
-[Immediate, accessible, empathetic mental health support.]
+Immediate, accessible, empathetic mental health support.
 
 ### The Solution
-[by creating chatbot assistant]
+by creating chatbot assistant
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [python used]
-- [streamlit used]
-- [google-ai-generativelanguage,grpcio used,markupSafe]
-- [python,streamlet used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- python used
+- streamlit used
+- google-ai-generativelanguage,grpcio used,markupSafe
+- python,streamlet used
 
 ### Implementation
 For Software:
 # Installation
-[pip install -r requirements.thc]
+pip install -r requirements.thc
 
 # Run
-[streamlit run app.py]
+streamlit run app.py
 
-### Project Documentation
-For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](![Screenshot (1)](https://github.com/user-attachments/assets/06a7db96-3435-4b45-9f12-9e1f2372fae9)
@@ -58,40 +51,14 @@ For Software:
 )
 *this is using app.py*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
+# team photo
 ![Team Photo](/473dc6be-25cc-429e-bfad-8a6f9b21756f.jpg)
 
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
 [https://drive.google.com/drive/folders/1n7TBbQ47hszKG4TrwMBVRLq_xQ42OOKt?usp=drive_link]
 *it explains how the bot works*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - aneena: [gemini.py]
