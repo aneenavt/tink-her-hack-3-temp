@@ -61,8 +61,8 @@ streamlit run app.py
 *it explains how the bot works*
 
 ## Team Contributions
-- aneena: [gemini.py]
-- zahra: [app.py]
+- aneena: gemini.py
+- zahra: app.py
 
 ---
 Made with ❤️ at TinkerHub
