@@ -4,8 +4,8 @@
 ### Team Name: cseym
 
 ### Team Members
-- Member 1: Zahra Noushad - SNGCE College of Engineering
-- Member 2: Aneena VT - SNGCE College of Engineering
+- Member 1: Zahra Noushad - SNGCE COLLEGE OF ENGINEERING
+- Member 2: Aneena VT - SNGCE COLLEGE OF ENGINEERING
 
 ### Hosted Project Link
 [Healing Circle](https://healing-circle.streamlit.app/)
@@ -55,8 +55,8 @@ For Software:
 *It explains how the bot works in detail.*
 
 ## Team Contributions
-- **Aneena**: Developed `gemini.py`  
-- **Zahra**: Developed `app.py`
+- **ANEENA VT**: Developed `gemini.py`  
+- **ZAHRA NOUSHAD**: Developed `app.py`
 
 ---
 Made with ❤️ at TinkerHub
