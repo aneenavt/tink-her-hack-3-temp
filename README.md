@@ -1,13 +1,13 @@
-# [Project Name] 🎯
+# healing circle 
 
 
 ## Basic Details
-### Team Name: [cseym]
+### Team Name: cseym 
 
 
 ### Team Members
-- Member 1: [zahra noushad] - [sngce engineering college of engineering]
-- Member 2: [aneena vt] - [sngce engineering college of engineering]
+- Member 1: zahra noushad - [sngce engineering college of engineering]
+- Member 2: aneena vt - [sngce engineering college of engineering]
 
 ### Hosted Project Link
 [https://healing-circle.streamlit.app/]
@@ -86,16 +86,15 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[https://drive.google.com/drive/folders/1n7TBbQ47hszKG4TrwMBVRLq_xQ42OOKt?usp=drive_link]
+*it explains how the bot works*
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- aneena: [gemini.py]
+- zahra: [app.py]
 
 ---
 Made with ❤️ at TinkerHub
