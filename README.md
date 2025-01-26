@@ -72,8 +72,8 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Team](![Team Photo](/473dc6be-25cc-429e-bfad-8a6f9b21756f.jpg)
-)
+![Team Photo](/473dc6be-25cc-429e-bfad-8a6f9b21756f.jpg)
+
 
 
 ![Components](Add photo of your components here)
