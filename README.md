@@ -4,8 +4,8 @@
 ### Team Name: cseym
 
 ### Team Members
-- Member 1: Zahra Noushad - SNGCE COLLEGE OF ENGINEERING
-- Member 2: Aneena VT - SNGCE COLLEGE OF ENGINEERING
+- Member 1: ZAHRA NOUSHAD - SNGCE COLLEGE OF ENGINEERING
+- Member 2: ANEENA VT - SNGCE COLLEGE OF ENGINEERING
 
 ### Hosted Project Link
 [Healing Circle](https://healing-circle.streamlit.app/)
